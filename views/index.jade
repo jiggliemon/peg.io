@@ -1,0 +1,22 @@
+!!!
+html
+  head
+    if peg 
+      script _peg = !{JSON.stringify(peg)}
+
+    script
+      require = {
+         baseUrl:'js'
+        ,packages: [
+          'ace','peg','app','blocks','yate','yaul','yeah','prime'
+          ,{name:'elements',location:'elements/lib'}
+          ,{name:'slick',location:'slick/Source'}
+        ]
+        ,paths: {
+            'prime/prime': 'prime/prime/index'
+        }
+      }
+    link(rel='stylesheet', href="css/styles.css")
+  body
+    script(src='js/cajon.js', data-main='app')
+

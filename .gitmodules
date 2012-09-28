@@ -16,3 +16,12 @@
 [submodule "lib/yeah"]
 	path = lib/yeah
 	url = git@github.com:jiggliemon/yeah.git
+[submodule "www/js/elements"]
+	path = www/js/elements
+	url = https://github.com/mootools/elements.git
+[submodule "www/js/prime"]
+	path = www/js/prime
+	url = https://github.com/mootools/prime.git
+[submodule "www/js/slick"]
+	path = www/js/slick
+	url = https://github.com/mootools/slick.git
