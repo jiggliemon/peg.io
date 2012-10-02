@@ -1,27 +1,24 @@
-[submodule "lib/tinker-ui"]
-	path = lib/tinker-ui
-	url = https://github.com/jiggliemon/tinker-ui.git
-[submodule "lib/ace"]
-	path = lib/ace
-	url = https://github.com/ajaxorg/ace.git
-[submodule "lib/blocks"]
-	path = lib/blocks
-	url = git@github.com:jiggliemon/blocks.git
-[submodule "lib/yaul"]
-	path = lib/yaul
-	url = git@github.com:GCheung55/yaul.git
-[submodule "lib/yate"]
-	path = lib/yate
-	url = git@github.com:jiggliemon/yate.git
-[submodule "lib/yeah"]
-	path = lib/yeah
-	url = git@github.com:jiggliemon/yeah.git
 [submodule "www/js/elements"]
-	path = www/js/elements
-	url = https://github.com/mootools/elements.git
+    path = www/js/elements
+    url = https://github.com/mootools/elements.git
 [submodule "www/js/prime"]
-	path = www/js/prime
-	url = https://github.com/mootools/prime.git
+    path = www/js/prime
+    url = https://github.com/mootools/prime.git
 [submodule "www/js/slick"]
-	path = www/js/slick
-	url = https://github.com/mootools/slick.git
+    path = www/js/slick
+    url = https://github.com/mootools/slick.git
+[submodule "www/js/ace"]
+	path = www/js/ace
+	url = https://github.com/ajaxorg/ace.git
+[submodule "www/js/blocks"]
+	path = www/js/blocks
+	url = git@github.com:jiggliemon/blocks.git
+[submodule "www/js/yaul"]
+	path = www/js/yaul
+	url = git@github.com:GCheung55/yaul.git
+[submodule "www/js/yate"]
+	path = www/js/yate
+	url = git@github.com:jiggliemon/yate.git
+[submodule "www/js/yeah"]
+	path = www/js/yeah
+	url = git@github.com:jiggliemon/yeah.git
